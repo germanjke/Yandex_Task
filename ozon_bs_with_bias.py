@@ -35,3 +35,5 @@ bs_sorted = binary_search((nums[search_min(nums):] + nums[:search_min(nums)]), t
 bs_bias = bs_sorted - len(nums[search_min(nums):])
 print(bs_bias)
 
+# input [1, 2, 3, 4, 5, 6, 7]
+# output1
