@@ -36,4 +36,4 @@ bs_bias = bs_sorted - len(nums[search_min(nums):])
 print(bs_bias)
 
 # input [1, 2, 3, 4, 5, 6, 7]
-# output1
+# output 1
